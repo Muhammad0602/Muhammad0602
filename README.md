@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi there, I am Muhammad👋
 
-<!--
-**Muhammad0602/Muhammad0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/BahirHakimy/file-storage-for-dostiapi/blob/main/media/download.jfif" width="120"/>
 
-Here are some ideas to get you started:
+- 🔭 I am a Full Stack Developer student with a love for JavaScript, React, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
+- 📫 How to reach me:
+  - [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/Muhammad Davlatov)
+  - [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20'/> Email](mailto:bahirhakimy2015@gmail.com)
+  - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width='20'/> Twitter](https://twitter.com/Muhammad Davlatov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
+
+
+### 🚀 A little more about me...  
+
+```javascript
+const muhammadDavlatov = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "him"],
+  code: [JavaScript, React, C++, Java, HTML/CSS],
+  askMeAbout: [Javascript, Math, Chess],
+}
+```
+
+
+<div align='left'>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadDavlatov&show_icons=true&theme=onedark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahirHakimy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Muhammad0602/count.svg" />
+</p>
