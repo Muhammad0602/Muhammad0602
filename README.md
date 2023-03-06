@@ -1,6 +1,6 @@
 ### Hi there, I am Muhammad👋
 
-<img src="https://github.com/BahirHakimy/file-storage-for-dostiapi/blob/main/media/download.jfif" width="120"/>
+<img src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=107944377582926" width="120"/>
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, React, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
