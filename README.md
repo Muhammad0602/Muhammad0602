@@ -4,7 +4,7 @@
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, React, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
-  - [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/Muhammad-Davlatov)
+  - [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/muhammad-davlatov)
   - [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20'/> Email](mailto:bahirhakimy2015@gmail.com)
   - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width='20'/> Twitter](https://twitter.com/Muhammad_Davlatov
 
