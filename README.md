@@ -30,7 +30,7 @@ const muhammadDavlatov = {
 
 <div align='left'>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadDavlatov&show_icons=true&theme=onedark)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad0602&show_icons=true&theme=onedark)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahirHakimy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
