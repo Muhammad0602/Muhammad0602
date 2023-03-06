@@ -1,6 +1,6 @@
 ### Hi there, I am Muhammad👋
 
-<img src="coding.htm" width="120"/>
+<img src="profile.jpg" width="200"/>
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, React, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
