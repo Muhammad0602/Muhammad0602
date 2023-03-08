@@ -34,6 +34,8 @@ const muhammadDavlatov = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad0602&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad0602/&" alt="Muhammad0602/" /></p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Muhammad0602/count.svg" />
