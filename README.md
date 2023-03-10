@@ -1,7 +1,7 @@
 <h1 align="left"> 
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Muhammad" alt="Typing SVG" />
 </h1>
-<img src="profile.jpg" width="400"/>
+<img src="profile.jpg" width="500"/>
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, React, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
@@ -24,15 +24,16 @@ const muhammadDavlatov = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React, C++, Java, HTML/CSS],
-  askMeAbout: [Javascript, Math, Chess],
+  askMeAbout: [Javascript, Math],
+  hobbies: [Football, Table Tennis, Chess]
 }
 ```
 
 
 <div align='left'>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad0602&show_icons=true&theme=onedark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad0602&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhammad Davlatov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad0602&show_icons=true&theme=onedark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad0602&layout=compact)](https://github.com/Muhammad0602/github-readme-stats)
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad0602/&" alt="Muhammad0602/" /></p>
