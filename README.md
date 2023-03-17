@@ -29,7 +29,6 @@ const muhammadDavlatov = {
 }
 ```
 
-
 <div align='left'>
   
 [![Muhammad Davlatov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad0602&show_icons=true&theme=onedark)]()
