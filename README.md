@@ -3,7 +3,7 @@
 </h1>
 <img src="profile.jpg" width="500"/>
 
-- 🔭 I am a Full Stack Developer student with a love for JavaScript, React, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
+- 🔭 I am a Full Stack Developer student with a love for JavaScript, React, Redux, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
   - [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/muhammad-davlatov-6a8536254/)
   - [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20'/> Email](mailto:bahirhakimy2015@gmail.com)
