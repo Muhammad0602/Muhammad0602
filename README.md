@@ -5,9 +5,13 @@
 
 - 🔭 I am a Full Stack Developer student with a love for JavaScript, React, Redux, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
-  - [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/muhammad-davlatov-6a8536254/)
-  - [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20'/> Email](mailto:bahirhakimy2015@gmail.com)
-  - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width='20'/> Twitter](https://twitter.com/MuhammadDavla20)
+  - <a href='https://www.linkedin.com/in/muhammaddavlatov/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Muhammad_Davlatov-100000? 
+style=flat&logo=LinkedIn&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
+  
+  - <a href='mailto:umedjon02.ud@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Muhammad_Davlatov-100000?style=flat&logo=Gmail&logoColor=FFFFFF&labelColor=FF2C10&color=FF2C10'/></a>
+
+  - <a href='https://twitter.com/MuhammadDavla20' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Muhammad_Davlatov-100000?style=flat&logo=Twitter&logoColor=FFFFFF&labelColor=0DE3FF&color=0DE3FF'/></a>
+
 
 
 ### Skills
@@ -15,6 +19,15 @@
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
+![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor)
+![PostgreSQL](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
+
+
+
 
 
 ### 🚀 A little more about me...  
