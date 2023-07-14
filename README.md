@@ -3,7 +3,7 @@
 </h1>
 <img src="profile.jpg" width="500"/>
 
-- 🔭 I am a Full Stack Developer student with a love for JavaScript, React, Redux, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
+- 🔭 I am a Full Stack Developer with a love for JavaScript, React, Redux, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
   - <a href='https://www.linkedin.com/in/muhammaddavlatov/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Muhammad_Davlatov-100000? 
 style=flat&logo=LinkedIn&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
