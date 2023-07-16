@@ -1,7 +1,7 @@
 <h1 align="left"> 
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi there, 👋 I'm Muhammad" alt="Typing SVG" />
 </h1>
-<img src="profile.jpg" width="500"/>
+<img src="profile.jpg" width="1500"/>
 
 - 🔭 I am a Full Stack Developer with a love for JavaScript, React, Redux, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
