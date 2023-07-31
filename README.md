@@ -5,8 +5,7 @@
 
 - 🔭 I am a Full Stack Developer with a love for JavaScript, React, Redux, and C++. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
-  - <a href='https://linkedin.com/muhammaddavlatov/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Muhammad_Davlatov-100000? 
-style=flat&logo=LinkedIn&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
+  -   [![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Davlatov-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muhammaddavlatov/](https://www.linkedin.com/in/muhammaddavlatov/))](https://www.linkedin.com/in/muhammaddavlatov/)
   
   - <a href='mailto:umedjon02.ud@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Muhammad_Davlatov-100000?style=flat&logo=Gmail&logoColor=FFFFFF&labelColor=FF2C10&color=FF2C10'/></a>
 
