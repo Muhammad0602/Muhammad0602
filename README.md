@@ -3,7 +3,7 @@
 </h1>
 <img src="profile.jpg" width="1500"/>
 
-- 🔭 I am a Full Stack Developer with a love for JavaScript, React, and Redux. I play chess and learn new languages in my spare time. Open to new opportunities.
+- 🔭 I am a Full-stack developer with a love for JavaScript, React, and Redux. I play chess and learn new languages in my spare time. Open to new opportunities.
 - 📫 How to reach me:
   -   [![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Davlatov-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muhammaddavlatov/](https://www.linkedin.com/in/muhammaddavlatov/))](https://www.linkedin.com/in/muhammaddavlatov/)
   
