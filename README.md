@@ -35,7 +35,7 @@
 const muhammadDavlatov = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, C++, HTML/CSS, Ruby, Ruby on Rails, SQL, HTML/CSS],
+  code: [JavaScript, React, Redux, HTML/CSS, Ruby, Ruby on Rails, SQL],
   askMeAbout: [JavaScript, React, Math],
   hobbies: [Football, Table Tennis, Chess]
 }
